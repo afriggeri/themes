@@ -1,19 +1,19 @@
 t.prefs_.set("color-palette-overrides", [
-  "#1a1a1a",
+  "#8a8a8a",
   "#f4005f",
   "#98e024",
   "#fa8419",
-  "#9d65ff",
-  "#f4005f",
   "#58d1eb",
+  "#f4005f",
+  "#9d65ff",
   "#c4c5b5",
   "#625e4c",
   "#f4005f",
   "#98e024",
   "#e0d561",
-  "#9d65ff",
-  "#f4005f",
   "#58d1eb",
+  "#f4005f",
+  "#9d65ff",
   "#f6f6ef"
 ]);
 t.prefs_.set("foreground-color", "#c4c5b5");
